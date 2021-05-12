@@ -1,4 +1,4 @@
-# Classification Project: Predicting Diabetes Mellitus from data obtained in the first 24 hours in ICU.
+# Classification Project: Predicting Diabetes Mellitus
 
 ## Question/Need:
 *What is the framing question of your analysis, or the purpose of the model/system you plan to build?*
