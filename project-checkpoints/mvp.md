@@ -13,7 +13,7 @@ Trained on "Training", Scored on "Validation" data...
 **Precision:** 0.5913  
 **Recall:** 0.2115  
 
-![Baseline](./baseline_confusion.png)
+![Baseline](./images/baseline_confusion.png)
 
 
 ## Ten Feature
@@ -26,7 +26,7 @@ Trained on **scaled** "Training", Scored on "Validation" data ...
 **Recall:** 0.2438  
 
 
-![10 Feature](./tenfeat_confusion.png)
+![10 Feature](./images/tenfeat_confusion.png)
 
 
 ## Future
