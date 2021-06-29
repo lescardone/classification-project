@@ -1,7 +1,7 @@
 # **PREDICTING DIABETES IN ICU PATIENTS**
 Leslie Cardone  
 May 14, 2021  
-Metis: Business Fundamentals
+Metis: Classification
 
 
 
