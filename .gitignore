@@ -1,6 +1,10 @@
 # data
 data/
 
+#presentation
+*.key
+*/*.key
+
 #.DS_Store
 .DS_Store
 */.DS_Store
